@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22JMassaro0%22%2C%22name%22%3A%22joshua%20massaro%22%2C%22email%22%3A%22keyoko8%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Operating%20Systems%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22JMassaro0%22%2C%22name%22%3A%22joshua%20massaro%22%2C%22email%22%3A%22keyoko8%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F2%2Ffolders%2F1KvORZv3AeynQpRV2cFSW1QRFKaf34ywN%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Operating%20Systems%22%2C%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22Peripheral%20Devices%22%2C%22Python%22%2C%22PowerShell%22%2C%22Microsoft%20Azure%22%2C%22Google%20Workspace%22%2C%22Bash%20Scripting%22%5D%2C%22headlines%22%3A%5B%22AI%20Enthusiast%22%5D%2C%22customHeadlines%22%3A%5B%22AI%20Enthusiast%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -8,9 +8,9 @@
 
 **joshua massaro**
 
-*ITSA Student*
+*AI Enthusiast*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40JMassaro0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMassaro0) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyoko8@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40JMassaro0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMassaro0) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyoko8@gmail.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/2/folders/1KvORZv3AeynQpRV2cFSW1QRFKaf34ywN)
 
 </div>
 
@@ -24,7 +24,11 @@
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square)
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
+
+💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-0969da?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-0969da?style=flat-square)
+
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-0969da?style=flat-square)
 
 ---
 
